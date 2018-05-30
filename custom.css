@@ -1,0 +1,16 @@
+.pure-menu-fixed.sidebar {
+    left: unset;
+    right: 0;
+    top: 50px;
+    bottom: 0;
+    width: 25%;
+}
+
+.main-article {
+    margin-right: 25%;
+    margin-top: 50px;
+}
+
+.topbar {
+    background: white;
+}
